@@ -1,17 +1,17 @@
 # prog_est_prog_16
-Programa en lenguaje c que muestra el uso de scanf, y el uso del ciclo for
-Autor: Oscar Eduardo Fletes Ixta
-Escuela: UVM Campus Lomas Verdes
-Materia : Programcion Estructurada
-CICLO: 01/2022
+Programa en lenguaje c que muestra el uso del ciclo for para pedir la cantidad de numeros a sumar 
+* Autor: Oscar Eduardo Fletes Ixta
+* Escuela: UVM Campus Lomas Verdes
+* Materia : Programcion Estructurada
+* CICLO: 01/2022
 
 Programa en lenguaje c que muestra el uso de:
--Declaracion de variables 
--Variables del tipo int, float
--scanf
--Operaciones aritmeticas 
--Uso del ciclo for
--printf para monstrar los valroes de las variables
+* Declaracion de variables 
+* Variables del tipo int, float
+* scanf
+* Operaciones aritmeticas 
+* Uso del ciclo for
+* printf para monstrar los valroes de las variables
 
 Objetivo:
 Mostrar el uso de variables enteras y flotantes, como declararlas, pedirlas por teclado, usar el ciclo for, realizar operaciones aritmeticas e imprimirla.
